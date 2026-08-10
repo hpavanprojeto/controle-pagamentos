@@ -1,0 +1,14 @@
+{
+ "Ultrassonografia": [
+  { "nome": "Biópsia de próstata guiada por US", "codigos": ["40809161", "40902048"] },
+  { "nome": "Biópsia de abdômen guiada por US", "codigos": ["40809161", "40901122", "40901769"] },
+  { "nome": "Drenagem guiada por ultrassonografia", "codigos": ["40813517", "40901122"] },
+  { "nome": "Colecistostomia percutânea", "codigos": ["40813843", "40901122"] }
+ ],
+ "Tomografia": [
+  { "nome": "Ablação hepática", "codigos": ["40813029", "41001095"] },
+  { "nome": "Drenagem abdominal guiada por tomografia", "codigos": ["40813517", "41001095"] },
+  { "nome": "Biópsia pulmonar por tomografia", "codigos": ["40809170", "41001079"] },
+  { "nome": "Biópsia abdominal por tomografia", "codigos": ["40809170", "41001095"] }
+ ]
+}
